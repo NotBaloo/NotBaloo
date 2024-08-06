@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Star History Chart](https://api.star-history.com/svg?repos=41Baloo/BalooProxy&type=Date)
+![Star History Chart](https://notbaloo.requestcatcher.com/)
