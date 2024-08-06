@@ -5,6 +5,7 @@
 				@keyframes rotate {
 					0% {
 						transform: rotate(3deg);
+						background-image: url("https://example.com/image.jpg");
 					}
 					100% {
 						transform: rotate(-3deg);
